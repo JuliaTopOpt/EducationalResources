@@ -13,3 +13,9 @@ This repository is a collection of articles that I find to be sufficiently educa
 - [AbstractDifferentiation.jl: Backend-Agnostic Differentiable Programming in Julia](https://www.researchgate.net/publication/354858065_AbstractDifferentiationjl_Backend-Agnostic_Differentiable_Programming_in_Julia)
 - [Basic Parameter Estimation, Reverse-Mode AD, and Inverse Problems](https://mitmath.github.io/18337/lecture10/estimation_identification)
 - [Differentiable Programming and Neural Differential Equations](https://mitmath.github.io/18337/lecture11/adjoints)
+
+## Neural networks for topology optimization
+
+- [NTopo: Mesh-free Topology Optimization using Implicit Neural Representations](https://openreview.net/pdf?id=bBHHU4dW88g)
+- [TONR: An exploration for a novel way combining neural network with topology optimization](https://www.sciencedirect.com/science/article/pii/S004578252100414X?via%3Dihub)
+- [TOuNN: Topology Optimization using Neural Networks](https://link.springer.com/article/10.1007/s00158-020-02748-4)
