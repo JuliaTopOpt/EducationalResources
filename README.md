@@ -1,6 +1,6 @@
-# Educational articles in topology optimization
+# Educational resources in topology optimization
 
-This repository is a collection of articles that I find to be sufficiently educational in various areas of topology optimization. Feel free to recommend articles via issues or pull requests.
+This repository is a collection of resouces that I find to be sufficiently educational in various areas of topology optimization. Feel free to recommend articles via issues or pull requests.
 
 ## Constrained nonlinear optimization
 
@@ -22,3 +22,7 @@ This repository is a collection of articles that I find to be sufficiently educa
 - [NTopo: Mesh-free Topology Optimization using Implicit Neural Representations](https://openreview.net/pdf?id=bBHHU4dW88g)
 - [TONR: An exploration for a novel way combining neural network with topology optimization](https://www.sciencedirect.com/science/article/pii/S004578252100414X?via%3Dihub)
 - [TOuNN: Topology Optimization using Neural Networks](https://link.springer.com/article/10.1007/s00158-020-02748-4)
+
+## Linear Algebra
+- [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Matrix Computations](http://math.ecnu.edu.cn/~jypan/Teaching/books/2013%20Matrix%20Computations%204th.pdf)
