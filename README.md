@@ -26,3 +26,8 @@ This repository is a collection of resouces that I find to be sufficiently educa
 ## Linear Algebra
 - [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Matrix Computations](http://math.ecnu.edu.cn/~jypan/Teaching/books/2013%20Matrix%20Computations%204th.pdf)
+
+## Stress-constrained topology optimization
+
+- [On an alternative approach to stress constraints relaxation in topology optimization](https://link.springer.com/article/10.1007/s00158-007-0203-6)
+- [Damage approach: A new method for topology optimization with local stress constraints](https://link.springer.com/article/10.1007/s00158-015-1318-9)
