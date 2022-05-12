@@ -31,3 +31,4 @@ This repository is a collection of resouces that I find to be sufficiently educa
 
 - [On an alternative approach to stress constraints relaxation in topology optimization](https://link.springer.com/article/10.1007/s00158-007-0203-6)
 - [Damage approach: A new method for topology optimization with local stress constraints](https://link.springer.com/article/10.1007/s00158-015-1318-9)
+- [A unified aggregation and relaxation approach for stress-constrained topology optimization](https://link.springer.com/article/10.1007/s00158-016-1524-0)
