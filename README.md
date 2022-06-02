@@ -22,6 +22,8 @@ This repository is a collection of resouces that I find to be sufficiently educa
 - [NTopo: Mesh-free Topology Optimization using Implicit Neural Representations](https://openreview.net/pdf?id=bBHHU4dW88g)
 - [TONR: An exploration for a novel way combining neural network with topology optimization](https://www.sciencedirect.com/science/article/pii/S004578252100414X?via%3Dihub)
 - [TOuNN: Topology Optimization using Neural Networks](https://link.springer.com/article/10.1007/s00158-020-02748-4)
+- [Neural reparameterization improves structural optimization](https://arxiv.org/abs/1909.04240)
+- [Topology Optimization via Frequency Tuning of Neural Design Representations](https://dl.acm.org/doi/10.1145/3485114.3485124)
 
 ## Linear Algebra
 - [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
