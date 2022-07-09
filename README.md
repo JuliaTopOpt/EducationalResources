@@ -24,6 +24,9 @@ This repository is a collection of resouces that I find to be sufficiently educa
 - [TOuNN: Topology Optimization using Neural Networks](https://link.springer.com/article/10.1007/s00158-020-02748-4)
 - [Neural reparameterization improves structural optimization](https://arxiv.org/abs/1909.04240)
 - [Topology Optimization via Frequency Tuning of Neural Design Representations](https://dl.acm.org/doi/10.1145/3485114.3485124)
+- [Self-directed online machine learning for topology optimization](https://www.nature.com/articles/s41467-021-27713-7)
+- [Neural reparameterization improves structural optimization](https://arxiv.org/abs/1909.04240)
+- [Machine learning for topology optimization: Physics-based learning through an independent training strategy](https://www.sciencedirect.com/science/article/abs/pii/S0045782522003036)
 
 ## Linear Algebra
 - [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
