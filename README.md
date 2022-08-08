@@ -18,6 +18,7 @@ This repository is a collection of resouces that I find to be sufficiently educa
 - [Differentiable Programming and Neural Differential Equations](https://mitmath.github.io/18337/lecture11/adjoints)
 
 ## Neural networks for topology optimization
+- [On the use of Artificial Neural Networks in Topology Optimisation](https://www.researchgate.net/publication/362489187_On_the_use_of_Artificial_Neural_Networks_in_Topology_Optimisation)
 - [DNN-based Topology Optimisation: Spatial Invariance and Neural Tangent Kernel](https://openreview.net/pdf?id=DUy-qLzqvlU)
 - [NTopo: Mesh-free Topology Optimization using Implicit Neural Representations](https://openreview.net/pdf?id=bBHHU4dW88g)
 - [TONR: An exploration for a novel way combining neural network with topology optimization](https://www.sciencedirect.com/science/article/pii/S004578252100414X?via%3Dihub)
