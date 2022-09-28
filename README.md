@@ -31,7 +31,7 @@ This repository is a collection of resouces that I find to be sufficiently educa
 
 ## Linear Algebra
 - [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-- [Matrix Computations](http://math.ecnu.edu.cn/~jypan/Teaching/books/2013%20Matrix%20Computations%204th.pdf)
+- [Matrix Computations](https://twiki.cern.ch/twiki/pub/Main/AVFedotovHowToRootTDecompQRH/Golub_VanLoan.Matr_comp_3ed.pdf)
 
 ## Stress-constrained topology optimization
 
