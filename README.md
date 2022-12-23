@@ -43,3 +43,8 @@ This repository is a collection of resouces that I find to be sufficiently educa
 
 - [Structural stability and artificial buckling modes in topology optimization](https://link.springer.com/article/10.1007/s00158-021-03012-z)
 - [Layout optimization of pin-jointed truss structures with minimum frequency constraints](https://www.tandfonline.com/doi/full/10.1080/0305215X.2022.2086539)
+
+## Reliability-based topology optimization
+
+- [A survey on approaches for reliability-based optimization](https://link.springer.com/article/10.1007/s00158-010-0518-6)
+- [Second-order reliability methods: a review and comparative study](https://link.springer.com/article/10.1007/s00158-021-03013-y)
