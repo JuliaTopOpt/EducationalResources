@@ -49,3 +49,9 @@ This repository is a collection of resouces that I find to be sufficiently educa
 
 - [A survey on approaches for reliability-based optimization](https://link.springer.com/article/10.1007/s00158-010-0518-6)
 - [Second-order reliability methods: a review and comparative study](https://link.springer.com/article/10.1007/s00158-021-03013-y)
+
+## Fluid flow topology optimization
+
+- [Understanding Laminar and Turbulent Flow](https://www.youtube.com/watch?v=9A-uUG0WR0w&t=6s)
+- [A detailed introduction to density-based topology optimisation of fluid flow problems with implementation in MATLAB](https://arxiv.org/abs/2207.13695)
+
