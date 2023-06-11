@@ -1,6 +1,6 @@
 # Educational resources in topology optimization
 
-This repository is a collection of resouces that I find to be sufficiently educational in various areas of topology optimization. Feel free to recommend articles via issues or pull requests.
+This repository is a collection of resouces that I find to be sufficiently educational in various areas of topology optimization and related fields. Feel free to recommend articles via issues or pull requests.
 
 ## Constrained nonlinear optimization
 
@@ -30,7 +30,7 @@ This repository is a collection of resouces that I find to be sufficiently educa
 - [Neural reparameterization improves structural optimization](https://arxiv.org/abs/1909.04240)
 - [Machine learning for topology optimization: Physics-based learning through an independent training strategy](https://www.sciencedirect.com/science/article/abs/pii/S0045782522003036)
 
-## Linear Algebra
+## Linear algebra
 - [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Matrix Computations](https://twiki.cern.ch/twiki/pub/Main/AVFedotovHowToRootTDecompQRH/Golub_VanLoan.Matr_comp_3ed.pdf)
 
@@ -50,7 +50,7 @@ This repository is a collection of resouces that I find to be sufficiently educa
 - [A survey on approaches for reliability-based optimization](https://link.springer.com/article/10.1007/s00158-010-0518-6)
 - [Second-order reliability methods: a review and comparative study](https://link.springer.com/article/10.1007/s00158-021-03013-y)
 
-## Fluid Mechanics
+## Fluid mechanics
 
 - [Illustrated Experiments in Fluid Mechanics: The NCFMF Book of Film Notes](https://web.mit.edu/hml/notes.html)
 - [Understanding Laminar and Turbulent Flow](https://www.youtube.com/watch?v=9A-uUG0WR0w&t=6s)
