@@ -52,6 +52,7 @@ This repository is a collection of resouces that I find to be sufficiently educa
 
 ## Fluid flow topology optimization
 
+- [Illustrated Experiments in Fluid Mechanics: The NCFMF Book of Film Notes](https://web.mit.edu/hml/notes.html)
 - [Understanding Laminar and Turbulent Flow](https://www.youtube.com/watch?v=9A-uUG0WR0w&t=6s)
 - [A detailed introduction to density-based topology optimisation of fluid flow problems with implementation in MATLAB](https://arxiv.org/abs/2207.13695)
 
