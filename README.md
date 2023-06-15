@@ -17,6 +17,7 @@ This repository is a collection of resouces that I find to be sufficiently educa
 - [Understanding Automatic Differentiation Pitfalls](https://arxiv.org/abs/2305.07546)
 
 ## Neural ODEs
+- [On Neural Differential Equations](https://arxiv.org/abs/2202.02435)
 - [Differentiable Programming and Neural Differential Equations](https://mitmath.github.io/18337/lecture11/adjoints)
 
 ## Neural networks for topology optimization
