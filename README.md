@@ -8,6 +8,7 @@ This repository is a collection of resouces that I find to be sufficiently educa
 
 ## Automatic differentiation
 
+- [Automatic differentiation in machine learning: a survey](https://arxiv.org/abs/1502.05767)
 - [Understanding automatic differentiation (in Julia)](https://www.youtube.com/watch?v=UqymrMG-Qi4)
 - [Overview of automatic differentiation](https://juliateachingctu.github.io/Scientific-Programming-in-Julia/dev/lecture_08/lecture/)
 - [Forward-Mode Automatic Differentiation (AD) via High Dimensional Algebras](https://mitmath.github.io/18337/lecture8/automatic_differentiation)
