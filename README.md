@@ -15,6 +15,8 @@ This repository is a collection of resouces that I find to be sufficiently educa
 - [AbstractDifferentiation.jl: Backend-Agnostic Differentiable Programming in Julia](https://www.researchgate.net/publication/354858065_AbstractDifferentiationjl_Backend-Agnostic_Differentiable_Programming_in_Julia)
 - [Basic Parameter Estimation, Reverse-Mode AD, and Inverse Problems](https://mitmath.github.io/18337/lecture10/estimation_identification)
 - [Understanding Automatic Differentiation Pitfalls](https://arxiv.org/abs/2305.07546)
+- [Efficient and Modular Implicit Differentiation](https://arxiv.org/abs/2105.15183)
+- [Notes on Adjoint Methods for 18.335](https://math.mit.edu/~stevenj/18.336/adjoint.pdf)
 
 ## Neural ODEs
 - [On Neural Differential Equations](https://arxiv.org/abs/2202.02435)
