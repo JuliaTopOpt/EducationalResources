@@ -44,7 +44,7 @@ This repository is a collection of resouces that I find to be sufficiently educa
 - [Damage approach: A new method for topology optimization with local stress constraints](https://link.springer.com/article/10.1007/s00158-015-1318-9)
 - [A unified aggregation and relaxation approach for stress-constrained topology optimization](https://link.springer.com/article/10.1007/s00158-016-1524-0)
 
-## Buckling
+## Buckling-constrained topology optimization
 
 - [Structural stability and artificial buckling modes in topology optimization](https://link.springer.com/article/10.1007/s00158-021-03012-z)
 - [Layout optimization of pin-jointed truss structures with minimum frequency constraints](https://www.tandfonline.com/doi/full/10.1080/0305215X.2022.2086539)
