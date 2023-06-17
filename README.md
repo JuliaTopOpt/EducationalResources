@@ -17,6 +17,7 @@ This repository is a collection of resouces that I find to be sufficiently educa
 - [Understanding Automatic Differentiation Pitfalls](https://arxiv.org/abs/2305.07546)
 - [Efficient and Modular Implicit Differentiation](https://arxiv.org/abs/2105.15183)
 - [Notes on Adjoint Methods for 18.335](https://math.mit.edu/~stevenj/18.336/adjoint.pdf)
+- [Supercharging Programming through Compiler Technology](https://c.wsmoses.com/theses/Supercharging%20Programming%20through%20Compiler%20Technology.pdf)
 
 ## Neural ODEs
 - [On Neural Differential Equations](https://arxiv.org/abs/2202.02435)
