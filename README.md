@@ -11,6 +11,7 @@ This repository is a collection of resouces that I find to be sufficiently educa
 - [Automatic differentiation in machine learning: a survey](https://arxiv.org/abs/1502.05767)
 - [Understanding automatic differentiation (in Julia)](https://www.youtube.com/watch?v=UqymrMG-Qi4)
 - [Overview of automatic differentiation](https://juliateachingctu.github.io/Scientific-Programming-in-Julia/dev/lecture_08/lecture/)
+- [Matrix Calculus for Machine Learning and Beyond](https://github.com/mitmath/matrixcalc)
 - [Forward-Mode Automatic Differentiation (AD) via High Dimensional Algebras](https://mitmath.github.io/18337/lecture8/automatic_differentiation)
 - [AbstractDifferentiation.jl: Backend-Agnostic Differentiable Programming in Julia](https://www.researchgate.net/publication/354858065_AbstractDifferentiationjl_Backend-Agnostic_Differentiable_Programming_in_Julia)
 - [Basic Parameter Estimation, Reverse-Mode AD, and Inverse Problems](https://mitmath.github.io/18337/lecture10/estimation_identification)
